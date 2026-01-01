@@ -17,7 +17,7 @@ This repository contains my CCNA project, designed to simulate a real-world ente
 ![Topology](https://github.com/Ibkholid/CCNA-Hands-on-Pratice-01/blob/main/01.%20Topologi/Topologi%20Project.JPG)
 
 ## 🧪 Verification
-Screenshots for OSPF routing, HSRP status, and EtherChannel verification are available in the `https://github.com/Ibkholid/CCNA-Hands-on-Pratice-01/tree/main/03.%20Verification` directory.
+Screenshots for OSPF routing, HSRP status, and EtherChannel verification are available in the ![verification](https://github.com/Ibkholid/CCNA-Hands-on-Pratice-01/tree/main/03.%20Verification) directory.
 
 ## 🎯 Purpose
 This lab was created to strengthen my hands-on networking skills and prepare for real-world network engineering roles.
