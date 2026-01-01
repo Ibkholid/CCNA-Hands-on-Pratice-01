@@ -1,7 +1,7 @@
-# CCNA Super Lab – Enterprise Network Design
+# CCNA Hands on Pratice – Enterprise Network Design
 
 ## 📌 Overview
-This repository contains my CCNA Super Lab project, designed to simulate a real-world enterprise network with redundancy, scalability, and high availability.
+This repository contains my CCNA project, designed to simulate a real-world enterprise network with redundancy, scalability, and high availability.
 
 ## 🔧 Technologies Implemented
 - VLAN & Trunking
@@ -14,7 +14,7 @@ This repository contains my CCNA Super Lab project, designed to simulate a real-
 - VTP
 
 ## 🗺️ Network Topology
-![Topology](topology/enterprise-topology.png)
+![Topology](Topologi Project.JPG)
 
 ## 🧪 Verification
 Screenshots for OSPF routing, HSRP status, and EtherChannel verification are available in the `verification/` directory.
@@ -23,4 +23,4 @@ Screenshots for OSPF routing, HSRP status, and EtherChannel verification are ava
 This lab was created to strengthen my hands-on networking skills and prepare for real-world network engineering roles.
 
 ## 📬 Contact
-LinkedIn: https://www.linkedin.com/in/USERNAME
+LinkedIn: https://www.linkedin.com/in/ibkholid/
