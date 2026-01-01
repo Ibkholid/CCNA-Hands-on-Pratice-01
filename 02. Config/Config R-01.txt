@@ -1,0 +1,21 @@
+!DHCP Server VLAN
+ ip dhcp excluded-address 192.168.10.1 192.168.10.10
+ ip dhcp excluded-address 192.168.10.250 192.168.10.254
+ ip dhcp excluded-address 192.168.20.1 192.168.20.10
+ ip dhcp excluded-address 192.168.20.250 192.168.20.254
+
+ip dhcp pool V-10
+ network 192.168.10.0 255.255.255.0
+ default-router 192.168.10.254
+ dns-server 8.8.8.8
+ip dhcp pool V-20
+ network 192.168.20.0 255.255.255.0
+ default-router 192.168.20.254
+ dns-server 8.8.8.8
+
+!OSPF
+router ospf 1
+ network 10.10.10.0 0.0.0.3 area 0
+ network 20.20.20.0 0.0.0.3 area 0
+ network 11.11.11.0 0.0.0.3 area 0
+ network 13.13.13.0 0.0.0.3 area 0
