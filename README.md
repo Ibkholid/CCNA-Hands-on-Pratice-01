@@ -1,4 +1,4 @@
-# Hands on Pratice – Enterprise Network Design
+# Hands on Practice – Enterprise Network Design
 
 ## 📌 Overview
 This repository contains my CCNA project, designed to simulate a real-world enterprise network with redundancy, scalability, and high availability.
